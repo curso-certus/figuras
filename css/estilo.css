@@ -1,0 +1,27 @@
+body {
+  background-color: aqua;
+}
+h1 {
+  margin: auto;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  letter-spacing: 0.1cm;
+}
+.triangulo {
+  width: 0;
+  height: 0;
+  border-right: 50px solid transparent;
+  border-left: 50px solid transparent;
+  border-bottom: 100px solid #fff;
+  margin: auto;
+  /*border-top: 100px solid #fff;*/
+}
+.triangulo1 {
+  width: 0;
+  height: 0;
+  border-right: 50px solid transparent;
+  border-left: 50px solid transparent;
+  border-top: 100px solid #fff;
+  margin: auto;
+}
